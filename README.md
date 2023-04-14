@@ -53,3 +53,52 @@ OUTPUT
 DDL Script
 ![ddl script](https://user-images.githubusercontent.com/115356128/232086628-22b70bc8-a630-4288-ac6a-8436230baffc.png)
 
+
+
+# Tugas Praktikum 2
+```
+1. Isi data pada table tersebut sebanyak minimal 5 record data.
+2. Tampilkan semua isi/record tabel! 
+3. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31! 
+4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja! 
+5. Hapus Mahasiswa yang bernama Dina! 
+6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2! 
+7. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin perempuan! 
+8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
+9. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
+10. Tampilkan data mahasiswa terurut berdasarkan nama
+```
+
+1. Isi data pada table tersebut sebanyak minimal 5 record data.
+![ddl 1](https://user-images.githubusercontent.com/115356128/232091268-12c09b73-7b86-4c31-9cbb-d013455c50d1.png)
+
+2. Tampilkan semua isi/record tabel!
+![ddl 2](https://user-images.githubusercontent.com/115356128/232091567-89a38d10-be90-4e24-9a90-2cc47c06d7e9.png)
+
+3. Ubah data tanggal lahir mahasiswa yang bernama Ari menjadi: 1979-08-31!
+![ddl 3](https://user-images.githubusercontent.com/115356128/232096964-ded9b7be-6c7f-432f-ae33-c273c7edb9bf.png)
+
+4. Tampilkan satu baris / record data yang telah diubah tadi yaitu record dengan nama Ari saja!
+![ddl 4](https://user-images.githubusercontent.com/115356128/232098808-5d9f9d82-4cf4-48e7-a1fd-ad6cf411293d.png)
+
+5. Hapus Mahasiswa yang bernama Dina!
+![ddl 5](https://user-images.githubusercontent.com/115356128/232099151-b2da6eaa-2978-46b1-b90b-796f83fea363.png)
+
+6. Tampilkan record atau data yang tanggal kelahirannya lebih dari atau sama dengan 1996-1-2!
+![ddl 6](https://user-images.githubusercontent.com/115356128/232101668-c4669eb9-2cba-4b02-a92e-f5ca05161357.png)
+
+7. Tampilkan semua Mahasiswa yang berasal dari Bekasi dan berjenis kelamin perempuan!
+![ddl 7](https://user-images.githubusercontent.com/115356128/232102325-75a4073b-40b2-48ad-9fac-28ea7c75b7e9.png)
+
+8. Tampilkan semua Mahasiswa yang berasal dari Bekasi dengan kelamin laki-laki atau Mahasiswa yang berumur lebih dari 22 tahun dengan kelamin wanita!
+![ddl 8](https://user-images.githubusercontent.com/115356128/232105569-3aed12de-0123-4303-87c9-257a1dae6b1c.png)
+
+9. Tampilkan data nama dan alamat mahasiswa saja dari tabel tersebut
+![ddl 9](https://user-images.githubusercontent.com/115356128/232107282-f0ade418-ea82-4b09-b694-ddb72e3be43d.png)
+
+10. Tampilkan data mahasiswa terurut berdasarkan nama
+![ddl 10](https://user-images.githubusercontent.com/115356128/232107576-8a765cb8-c53d-4759-925f-65adc1880bc4.png)
+
+
+
+
