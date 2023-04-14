@@ -34,10 +34,6 @@ OUTPUT
 
 ![hasil matkul](https://user-images.githubusercontent.com/115356128/232085747-37cbf8ef-dcf4-49a0-bdd4-4b5f4ee37b7d.png)
 
-DDL Script
-![ddl script](https://user-images.githubusercontent.com/115356128/232086628-22b70bc8-a630-4288-ac6a-8436230baffc.png)
-
-
 4. Script Tabel JadwalMengajar
 
 ![sc jadwal](https://user-images.githubusercontent.com/115356128/232086158-04c181f0-484e-44c2-8b5c-0dfabc75ecb4.png)
@@ -53,3 +49,7 @@ OUTPUT
 OUTPUT
 
 ![hasil krs](https://user-images.githubusercontent.com/115356128/232086314-d76a19a8-6be6-494b-a807-0ece1cd9f890.png)
+
+DDL Script
+![ddl script](https://user-images.githubusercontent.com/115356128/232086628-22b70bc8-a630-4288-ac6a-8436230baffc.png)
+
