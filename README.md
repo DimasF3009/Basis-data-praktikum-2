@@ -1,14 +1,19 @@
 # Praktikum 1
 
 Data Model Mapping
+![maping](https://user-images.githubusercontent.com/115551911/232523821-cf6e1f2d-c711-4fbb-b4f5-e3da2235fce2.png)
+
+Buat DDL Script berdasarkan skema ERD tersebut diatas.
+![ddl script](https://user-images.githubusercontent.com/115551911/232523871-e1cc2c9f-1714-45ce-9259-43f67de776a6.png)
+
+
+Jalankan script DDL tersebut pada DBMS MySQL
 1. Mahasiswa (nim, nama, jenis_kelamin, tgl_lahir, jalan, kota, kodepos, no_hp, kd_ds)
 2. Dosen (kd_ds, nama)
 3. Matakuliah (kd_mk, nama, sks)
 4. JadwalMengajar (kd_ds, kd_mk, hari, jam, ruang)
 5. KRSMahasiswa (nim, kd_mk, kd_ds, semester, nilai)
 
-Buat DDL Script berdasarkan skema ERD tersebut diatas.
-Jalankan script DDL tersebut pada DBMS MySQL
 
 1. Script Tabel mahasiswa
 
@@ -50,8 +55,6 @@ OUTPUT
 
 ![hasil krs](https://user-images.githubusercontent.com/115356128/232086314-d76a19a8-6be6-494b-a807-0ece1cd9f890.png)
 
-DDL Script
-![ddl script](https://user-images.githubusercontent.com/115356128/232086628-22b70bc8-a630-4288-ac6a-8436230baffc.png)
 
 
 
@@ -114,5 +117,3 @@ Data Manipulation Language (DML) adalah bahasa pemrograman yang digunakan untuk 
 
 Di DML, pengguna dapat mengakses data menggunakan perintah SQL (Structured Query Language). SQL adalah bahasa standar untuk mengakses dan mengelola data dalam basis data relasional. Perintah SQL yang digunakan dalam DML adalah untuk menyisipkan, memodifikasi, menghapus, dan menampilkan data seperti dijelaskan di atas. 
 ```
-
-
